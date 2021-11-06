@@ -1,0 +1,17 @@
+vg@DESKTOP-9NOEL68 MINGW64 /c/task/DevOps_online_Ternopil_new_2021Q4/m1/task1.1 (develop)
+$ git reflog
+1c73ec4 (HEAD -> develop, origin/develop) HEAD@{0}: checkout: moving from master to develop
+4c6b67f (origin/master, master) HEAD@{1}: checkout: moving from styles to master
+7ff0a9b (origin/styles, styles) HEAD@{2}: checkout: moving from images to styles
+df632ed (origin/images, images) HEAD@{3}: checkout: moving from develop to images
+1c73ec4 (HEAD -> develop, origin/develop) HEAD@{4}: checkout: moving from styles to develop
+7ff0a9b (origin/styles, styles) HEAD@{5}: commit: insert css into index.html commit on style branch
+1c73ec4 (HEAD -> develop, origin/develop) HEAD@{6}: checkout: moving from develop to styles
+1c73ec4 (HEAD -> develop, origin/develop) HEAD@{7}: checkout: moving from images to develop
+df632ed (origin/images, images) HEAD@{8}: commit: insert images into index.html commit on images branch
+1c73ec4 (HEAD -> develop, origin/develop) HEAD@{9}: checkout: moving from develop to images
+1c73ec4 (HEAD -> develop, origin/develop) HEAD@{10}: commit: create index.html commit on develop branch
+4c6b67f (origin/master, master) HEAD@{11}: checkout: moving from master to develop
+4c6b67f (origin/master, master) HEAD@{12}: commit (initial): first commit on master brench readmi.txt
+
+vg@DESKTOP-9NOEL68 MINGW64 /c/task/DevOps_online_Ternopil_new_2021Q4/m1/task1.1 (develop)
