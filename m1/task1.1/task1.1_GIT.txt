@@ -1,17 +1,25 @@
-vg@DESKTOP-9NOEL68 MINGW64 /c/task/DevOps_online_Ternopil_new_2021Q4/m1/task1.1 (develop)
+vg@DESKTOP-9NOEL68 MINGW64 /c/task/DevOps_online_Ternopil_new_2021Q4/m1/task1.1 (master)
 $ git reflog
-1c73ec4 (HEAD -> develop, origin/develop) HEAD@{0}: checkout: moving from master to develop
-4c6b67f (origin/master, master) HEAD@{1}: checkout: moving from styles to master
-7ff0a9b (origin/styles, styles) HEAD@{2}: checkout: moving from images to styles
-df632ed (origin/images, images) HEAD@{3}: checkout: moving from develop to images
-1c73ec4 (HEAD -> develop, origin/develop) HEAD@{4}: checkout: moving from styles to develop
-7ff0a9b (origin/styles, styles) HEAD@{5}: commit: insert css into index.html commit on style branch
-1c73ec4 (HEAD -> develop, origin/develop) HEAD@{6}: checkout: moving from develop to styles
-1c73ec4 (HEAD -> develop, origin/develop) HEAD@{7}: checkout: moving from images to develop
-df632ed (origin/images, images) HEAD@{8}: commit: insert images into index.html commit on images branch
-1c73ec4 (HEAD -> develop, origin/develop) HEAD@{9}: checkout: moving from develop to images
-1c73ec4 (HEAD -> develop, origin/develop) HEAD@{10}: commit: create index.html commit on develop branch
-4c6b67f (origin/master, master) HEAD@{11}: checkout: moving from master to develop
-4c6b67f (origin/master, master) HEAD@{12}: commit (initial): first commit on master brench readmi.txt
-
-vg@DESKTOP-9NOEL68 MINGW64 /c/task/DevOps_online_Ternopil_new_2021Q4/m1/task1.1 (develop)
+5e9eb7b (HEAD -> master, origin/master, develop) HEAD@{0}: merge develop: Fast-forward
+4c6b67f HEAD@{1}: checkout: moving from develop to master
+5e9eb7b (HEAD -> master, origin/master, develop) HEAD@{2}: commit (merge): fix marge problem
+8732441 HEAD@{3}: merge images: Merge made by the 'recursive' strategy.
+025fcfa (origin/develop) HEAD@{4}: checkout: moving from styles to develop
+e77b943 (styles) HEAD@{5}: commit: all
+7ff0a9b (origin/styles) HEAD@{6}: checkout: moving from images to styles
+9a2ecea (images) HEAD@{7}: commit: all
+df632ed (origin/images) HEAD@{8}: checkout: moving from develop to images
+025fcfa (origin/develop) HEAD@{9}: commit: commit task1.1_GIT.txt
+1c73ec4 HEAD@{10}: checkout: moving from master to develop
+4c6b67f HEAD@{11}: checkout: moving from styles to master
+7ff0a9b (origin/styles) HEAD@{12}: checkout: moving from images to styles
+df632ed (origin/images) HEAD@{13}: checkout: moving from develop to images
+1c73ec4 HEAD@{14}: checkout: moving from styles to develop
+7ff0a9b (origin/styles) HEAD@{15}: commit: insert css into index.html commit on style branch
+1c73ec4 HEAD@{16}: checkout: moving from develop to styles
+1c73ec4 HEAD@{17}: checkout: moving from images to develop
+df632ed (origin/images) HEAD@{18}: commit: insert images into index.html commit on images branch
+1c73ec4 HEAD@{19}: checkout: moving from develop to images
+1c73ec4 HEAD@{20}: commit: create index.html commit on develop branch
+4c6b67f HEAD@{21}: checkout: moving from master to develop
+4c6b67f HEAD@{22}: commit (initial): first commit on master brench readmi.txt
